@@ -1,1 +1,3 @@
-# moodle-ws_campus_mgmt
+# Project Title
+
+Web services for GEFRI
