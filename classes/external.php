@@ -23,6 +23,8 @@
  */
 
 //require_once($CFG->libdir . "/classes/user.php");
+require_once($CFG->dirroot.'/lib/externallib.php');
+
 const LOCAL_WS_CAMPUS_MGMT_SCALE_FR = 45;
 const LOCAL_WS_CAMPUS_MGMT_SCALE_DE = 78;
 const LOCAL_WS_CAMPUS_MGMT_SCALE_EN = 51;
